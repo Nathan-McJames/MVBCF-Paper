@@ -9,22 +9,25 @@ The TIMSS data used in the study is available for download at https://timss2019.
 
 MVBCF_Code.cpp - RCPP Implementation of Multivariate BCF.
 
-MVBCF_RI_Code.cpp - RCPP Implementation of Multivariate BCF (With Random Intercepts). <br />
+MVBCF_RI_Code.cpp - RCPP Implementation of Multivariate BCF (With Random Intercepts).
 
+<br/>
 
 DGP1_Github.R - Code for evaluating model performance on Data Generating Process 1.
 
 DGP2_Github.R - Code for evaluating model performance on Data Generating Process 2.
 
-DGP3_Github.R - Code for evaluating model performance on Data Generating Process 3. <br />
+DGP3_Github.R - Code for evaluating model performance on Data Generating Process 3.
 
+<br/>
 
 Desk_Github.R - Code for estimating treatment effects of "Has Study Desk" treatment.
 
 Hungry_Github.R - Code for estimating treatment effects of "Often Hungry" treatment.
 
-Absent_Github.R - Code for estimating treatment effects of "Often Absent" treatment. <br />
+Absent_Github.R - Code for estimating treatment effects of "Often Absent" treatment.
 
+<br/>
 
 Desk_Github_OOS.R - Code for 10-fold cross validation results with "Has Study Desk" treatment.
 
