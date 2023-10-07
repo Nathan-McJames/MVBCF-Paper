@@ -5,6 +5,8 @@ The preprint of this article can be found at https://browse.arxiv.org/pdf/2303.0
 
 The TIMSS data used in the study is available for download at https://timss2019.org/international-database/
 
+![alt text](https://github.com/Nathan-McJames/MVBCF_Paper/blob/main/Pictures/paper_plot.svg?raw=true)
+
 ### Code Scripts and Description:
 
 MVBCF_Code.cpp - RCPP Implementation of Multivariate BCF.
