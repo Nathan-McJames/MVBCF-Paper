@@ -15,24 +15,24 @@ MVBCF_RI_Code.cpp - RCPP Implementation of Multivariate BCF (With Random Interce
 
 <br/>
 
-DGP1_Github.R - Code for evaluating model performance on Data Generating Process 1.
+GitHub_DGP1.R - Code for evaluating model performance on Data Generating Process 1.
 
-DGP2_Github.R - Code for evaluating model performance on Data Generating Process 2.
+GitHub_DGP2.R - Code for evaluating model performance on Data Generating Process 2.
 
-DGP3_Github.R - Code for evaluating model performance on Data Generating Process 3.
-
-<br/>
-
-Desk_Github.R - Code for estimating treatment effects of "Has Study Desk" treatment.
-
-Hungry_Github.R - Code for estimating treatment effects of "Often Hungry" treatment.
-
-Absent_Github.R - Code for estimating treatment effects of "Often Absent" treatment.
+GitHub_DGP3.R - Code for evaluating model performance on Data Generating Process 3.
 
 <br/>
 
-Desk_Github_OOS.R - Code for 10-fold cross validation results with "Has Study Desk" treatment.
+GitHub_Desk.R - Code for estimating treatment effects of "Has Study Desk" treatment.
 
-Hungry_Github_OOS.R - Code for 10-fold cross validation results with "Often Hungry" treatment.
+GitHub_Hungry.R - Code for estimating treatment effects of "Often Hungry" treatment.
 
-Absent_Github_OOS.R - Code for 10-fold cross validation results with "Often Absent" treatment.
+GitHub_Absent.R - Code for estimating treatment effects of "Often Absent" treatment.
+
+<br/>
+
+GitHub_Desk_OOS.R - Code for 10-fold cross validation results with "Has Study Desk" treatment.
+
+GitHub_Hungry_OOS.R - Code for 10-fold cross validation results with "Often Hungry" treatment.
+
+GitHub_Absent_OOS.R - Code for 10-fold cross validation results with "Often Absent" treatment.
